@@ -27,7 +27,7 @@ def game_dict():
     return game_dictionary
 
 def num_points_scored():
-    pass
+    100
 
 def shoe_size():
     pass
